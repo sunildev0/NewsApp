@@ -9,6 +9,8 @@ import androidx.core.view.isVisible
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
+import androidx.recyclerview.widget.DividerItemDecoration
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.newsappsunil.databinding.FragmentCategoryBinding
 import com.example.newsappsunil.presentation.adapter.NewsListAdapter
 import com.example.newsappsunil.presentation.viewmodel.NewsViewModel
@@ -36,6 +38,12 @@ class CategoryFragment : Fragment() {
 
         adapter = NewsListAdapter()
         binding.rvNews.adapter = adapter
+        // Add the divider decoration
+        val dividerItemDecoration = DividerItemDecoration(
+            binding.rvNews.context,
+            (binding.rvNews.layoutManager as LinearLayoutManager).orientation
+        )
+        binding.rvNews.addItemDecoration(dividerItemDecoration)
 
         val category = arguments?.getString("category") ?: "general"
         viewModel.getProductsDetails("in", category, "89404e91b7f14396951bbd6c8d823add")
