@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Corrie Pelc",
+      "title": "Can eating small fish whole protect against dying from cancer? - Medical News Today",
+      "description": "Researchers from Japan have found that eating small fish such as sardines and whitebait whole may reduce all-cause and cancer mortality risk, at least in women.",
+      "url": "https://www.medicalnewstoday.com/articles/eating-small-fish-whole-may-reduce-risk-dying-cancer-other-causes",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/06/opened-sardine-can-1200-628-facebook.jpg",
+      "publishedAt": "2024-06-19T16:06:50Z",
+      "content": "<ul><li>Our diet is one of the environmental factors that can influence our risk of cancer. </li><li>Past studies show following a healthy diet may lower a persons cancer mortality risk, while eating… [+7680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Beau Paul",
+      "title": "‘I’ve never had oysters before … and now that I know I’ll never try them’: Clam bar cook shares the truth about oysters - The Daily Dot",
+      "description": "'Now I'm gonna be thinking this every time I eat them.'",
+      "url": "https://www.dailydot.com/news/are-oysters-alive-when-you-eat-them/",
+      "urlToImage": "https://uploads.dailydot.com/2024/06/oysters-are-alive.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2024-06-19T16:00:00Z",
+      "content": "Oysters aren’t an entry-level food, even when they’re cooked. Raw oysters are considered a delicacy, but slurping one down, even with lemon juice and tabasco accompaniments, isn’t for the faint of he… [+3725 chars]"
+    }
+  ]
+}
