@@ -1,5 +1,5 @@
-# 1. Missed to add a custom style for Splash due to time limit.
-# Have used
+## 1. Missed to add a custom styles due to time limit. so background colors are not great
+## Have used
 - MVVP clean arch
 - Hilt
 - Navigation components
