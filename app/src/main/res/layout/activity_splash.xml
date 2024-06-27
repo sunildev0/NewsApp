@@ -18,7 +18,7 @@
             android:layout_height="match_parent"
             android:fontFamily="sans-serif-black"
             android:gravity="center"
-            android:text="Mobulous Test"
+            android:text="NewsApp"
             android:textColor="@android:color/black"
             android:textSize="24sp" />
 
