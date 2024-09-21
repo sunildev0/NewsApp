@@ -1,5 +1,5 @@
 ## Have used
-- MVVP clean arch
+- MVVM + clean arch
 - Hilt
 - Navigation components
 - Coroutines
